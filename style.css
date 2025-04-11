@@ -8,7 +8,7 @@ html {
 
 
 body {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: monospace;
     min-height: 100%;
     text-align: center;
     display: flex;
@@ -39,10 +39,9 @@ main>* {
     
 }
 h3 {
-    margin-left: 45px;
-    margin-top: -10px;
-}
+margin-left: 43px ;
 
+}
 
 
 
